@@ -110,15 +110,20 @@ Run the script and press "q" to quit.
 
 ## Challenges Faced
 -Managing and integrating multiple project components.
+
 -Ensuring accurate hand landmark detection.
+
 -Overcoming model inaccuracies to achieve a final accuracy of 97.5%.
 
 ---
 
 ## Future Enhancements
 -Expand the dataset with more sign language words.
+
 -Improve accuracy using deep learning models (LSTMs, CNNs).
+
 -Enhance real-time tracking for both hands.
+
 -Integrate AI-powered predictive text suggestions.
 
 ---
