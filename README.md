@@ -126,7 +126,7 @@ Run the script and press "q" to quit.
 ## Hand-Landmark Example
 
 ### Sign Language Word Representation
-![Hand Landmark](![Image](https://github.com/user-attachments/assets/ca7b9456-e48d-4cf1-b39d-e6ad318270d5))
+![Image](https://github.com/user-attachments/assets/85ac9923-7337-4bc6-9e68-9aca721e832e)
 
 ### Mediapipe Hand Landmarks
 ![Mediapipe Hand Landmarks](https://mediapipe.dev/images/mobile/hand_landmarks.png)
