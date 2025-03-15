@@ -2,7 +2,7 @@
 This project translates sign language gestures into text using a machine learning-based hand tracking system. By leveraging Mediapipe for hand landmark detection and Random Forest Classifier for gesture recognition, the system achieves high accuracy in real-time sign translation.
 
 ## Objective
-The **Sign Language Recognition System** bridges the communication gap by translating sign language gestures into readable text. It assists individuals with speech and hearing impairments by converting hand gestures into recognizable words with high accuracy.
+The **ASL Sign Language Recognition System** bridges the communication gap by translating sign language gestures into readable text. It assists individuals with speech and hearing impairments by converting hand gestures into recognizable words with high accuracy.
 
 ---
 
